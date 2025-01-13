@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Just coding
+
 <!--
 **Sallylwy/sallylwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
